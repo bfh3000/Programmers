@@ -15,7 +15,7 @@ public class n20220606 {
     public static void main(String[] args) {
 //        Solution t = new Solution();
 //        System.out.println(t.solution(45));
-
+        
         Solution t2 = new Solution();
         System.out.println("result value : "+ t2.solution2(45));
     }
