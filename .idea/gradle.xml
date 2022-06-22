@@ -8,7 +8,7 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/lvl_1" />
-        <option name="gradleJvm" value="redhat11" />
+        <option name="gradleJvm" value="17windows" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/lvl_1" />
