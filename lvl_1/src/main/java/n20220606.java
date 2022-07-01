@@ -4,10 +4,12 @@ import org.apache.commons.logging.LogFactory;
 
 /**
  * 3진법 뒤집기
+ * <pre>
  * 1. Math.pow()로 radix를 10진수로 변경하는 함수가 있다는 사실.
  * 2. 10진수는 Integer로 radix로 변경이 가능하다는 사실. (하지만, 그 역은 성립되지 않음.)
- * 3. 음.. 1위 솔루션 보니깐 "2."의 역은 성립이 되네. Integer Int로 되네 ( String to int로 )
+ * 3. 음.. 1위 솔루션 보니깐 "2."의 역은 성립이 되네. Integer Int로 되네 (String to int로)
  * 4. reverse()는 Integer가 아닌, Stringbuilder에서 제공하네
+ * </pre>
  */
 public class n20220606 {
 
