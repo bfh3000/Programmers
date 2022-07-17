@@ -29,8 +29,6 @@ public class n20220612 {
             }
         }
 
-
-
     }
 
     public static int[] ReferencedSolution1(int[] numbers) {
