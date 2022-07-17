@@ -11,9 +11,9 @@ import org.apache.commons.logging.LogFactory;
  * 4. reverse()는 Integer가 아닌, Stringbuilder에서 제공하네
  * </pre>
  */
-public class n20220606 {
+public class Num20220606 {
 
-    private static Log log = LogFactory.getLog(n20220606.class);
+    private static Log log = LogFactory.getLog(Num20220606.class);
 
     public static void main(String[] args) {
         System.out.println("result value : " + mySolution(125));

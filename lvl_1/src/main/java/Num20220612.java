@@ -13,7 +13,7 @@ import java.util.*;
  * 2.
  * </pre>
  */
-public class n20220612 {
+public class Num20220612 {
     public static void main(String[] args) {
 
         int tmp[] = {2, 1, 3, 4, 1};
